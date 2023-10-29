@@ -3,6 +3,8 @@
 A simple program that presses Ctrl + V multiple times. 
 It allows you to select how many times per second you want to press these keys.
 
+![image](https://github.com/3ln1c0/simplectrlvspammer/assets/79100240/398b260a-ea6e-4b0e-b6a4-3815414a7b0b)
+
 # Modes:
   - Ctrl + V Spammer
   - Ctrl + V + Enter Spammer
