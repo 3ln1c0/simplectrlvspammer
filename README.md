@@ -15,6 +15,7 @@ Bypass adds 3 random letters to the end of each sentence, and also presses Ctrl 
 
 # How to install
 1. Download Python (You can download it from https://www.python.org)
-2. Download the .py file from the releases page and run it.
+2. Install pyautogui. You can do this by entering the command: py -m pip install pyautogui in the Windows CMD
+4. Download the .py file from the releases page and run it.
 
 
