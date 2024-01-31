@@ -18,9 +18,12 @@ Bypass adds 3 random letters to the end of each sentence, and also presses Ctrl 
 2. Install pyautogui and keyboard. You can do this by entering the commands:
 ```
 py -m pip install pyautogui
+```
+```
 py -m pip install keyboard
 ```
 in the Windows CMD.
+
 4. Download the .py file from the releases page and run it.
 
 
