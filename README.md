@@ -24,6 +24,6 @@ py -m pip install keyboard
 ```
 in the Windows CMD.
 
-4. Download the .py file from the releases page and run it.
+3. Download the .py file from the releases page and run it.
 
 
